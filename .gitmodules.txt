@@ -1,0 +1,3 @@
+[submodule "backend/drpetvet"]
+	path = backend/drpetvet
+	url = https://github.com/Aryanagarwal7733/drpetvet
